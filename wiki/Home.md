@@ -5,4 +5,4 @@ wikiPageName: Home
 menu: wiki
 ---
 
-Welcome to the AI-and-Cultural-Computing.github.io wiki!
+Welcome to the AICC_General wiki!
