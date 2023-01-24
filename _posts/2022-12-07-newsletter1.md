@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "AICC Newsletter 1"
-date:   2022-12-15 18:49:32 -0800
-categories: jekyll update
+date:   2022-12-07 18:49:32 -0800
+categories: newsletter llms
 ---
 
 Hi everyone! Welcome to the first and hopefully not the last of our little AICC "this week in machine learning" summaries.
